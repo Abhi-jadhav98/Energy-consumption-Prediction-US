@@ -1,0 +1,1 @@
+This project aims to predict energy consumption trends across the United States using machine learning techniques. By leveraging historical energy usage data, weather patterns, and economic indicators, the model provides accurate forecasts to optimize energy management and support sustainability efforts.
